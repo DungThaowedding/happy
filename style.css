@@ -1,0 +1,7 @@
+.bii-footer {
+    display: none !important;
+}
+.bii-footer.hoangtrinh {
+    display: block !important;
+    padding: 16px 0 !important;
+}
